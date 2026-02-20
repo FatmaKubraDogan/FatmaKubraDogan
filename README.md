@@ -29,4 +29,4 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FatmaKubraDogan&show_icons=true&theme=midnight-purple)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FatmaKubraDogan&show_icons=true&theme=radical)
